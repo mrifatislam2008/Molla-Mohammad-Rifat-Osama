@@ -32,8 +32,8 @@ window.RIFAT_SOCIAL_LINKS = [
     title: "GitHub",
     links: [
       { label: "GitHub 01", url: "https://github.com/mrifatislam2008" },
-      { label: "GitHub 02", url: "#" },
-      { label: "GitHub 03", url: "#" },
+      { label: "GitHub 02", url: "https://github.com/darkhackerteampakistan" },
+      { label: "GitHub 03", url: "https://github.com/MollaMohammadRifatOsama" },
       { label: "GitHub 04", url: "#" },
       { label: "GitHub 05", url: "#" }
     ]
@@ -41,7 +41,7 @@ window.RIFAT_SOCIAL_LINKS = [
   {
     title: "YouTube",
     links: [
-      { label: "YouTube Channel", url: "#" }
+      { label: "YouTube Channel", url: "https://www.youtube.com/@MollaMohammadRifatOsama" }
     ]
   },
   {
