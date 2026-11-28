@@ -18,13 +18,13 @@ window.RIFAT_SOCIAL_LINKS = [
     links: [
       { label: "Telegram Channel 01", url: "https://t.me/RiFAT_TECH_BD" },
       { label: "Telegram Profile", url: "https://t.me/Molla_Mohammad_Rifat_Osama" },
-      { label: "Telegram Channel 03", url: "#" },
-      { label: "Telegram Channel 04", url: "#" },
-      { label: "Telegram Channel 05", url: "#" },
-      { label: "Telegram Channel 06", url: "#" },
-      { label: "Telegram Channel 07", url: "#" },
-      { label: "Telegram Channel 08", url: "#" },
-      { label: "Telegram Channel 09", url: "#" },
+      { label: "Telegram Channel 03", url: "https://t.me/RiFAT_TECH_BD_chat" },
+      { label: "Telegram Channel 04", url: "https://t.me/BOT_CREATE_or_RiFAT" },
+      { label: "Telegram Channel 05", url: "https://t.me/DARK_HAKER_team_community" },
+      { label: "Telegram Channel 06", url: "https://t.me/DARK_HACKER_TEAM_PAKISTAN" },
+      { label: "Telegram Channel 07", url: "https://t.me/DARK_HACKER_TEAM_PAKISTAN_chat" },
+      { label: "Telegram Channel 08", url: "https://t.me/DHT_International" },
+      { label: "Telegram Channel 09", url: "https://t.me/DarkHackerCommunity" },
       { label: "Telegram Channel 10", url: "#" }
     ]
   },
